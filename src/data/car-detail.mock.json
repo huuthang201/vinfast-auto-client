@@ -1,0 +1,490 @@
+{
+    "id":  "vf-8",
+    "brand":  "VinFast",
+    "modelName":  "VF 8",
+    "modelYear":  2025,
+    "shortDescription":  "VinFast VF 8 is a midsize electric SUV tuned for Southeast Asia with space for family life, smart safety tech, and a refined ride that balances comfort with confident performance.",
+    "heroMedia":  {
+                      "type":  "image",
+                      "url":  "https://shop.vinfastauto.com/on/demandware.static/-/Sites-app_vinfast_vn-Library/default/dw0c215a65/reserves/VF8/banner.webp"
+                  },
+    "trims":  [
+                  {
+                      "code":  "Eco",
+                      "name":  "VF 8 Eco",
+                      "price":  {
+                                    "currency":  "VND",
+                                    "value":  1299000000,
+                                    "note":  "Estimated MSRP"
+                                },
+                      "powertrain":  "Single motor RWD",
+                      "transmission":  "Single-speed",
+                      "rangeWLTPKm":  471,
+                      "zeroTo100":  5.9,
+                      "images":  [
+                                     "https://images.unsplash.com/photo-1517945317862-720226b86482?auto=format\u0026fit=crop\u0026w=1200\u0026q=80",
+                                     "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?auto=format\u0026fit=crop\u0026w=1200\u0026q=80"
+                                 ],
+                      "highlightFeatures":  [
+                                                "Advanced driver assistance level 2",
+                                                "Smart cabin with 15.6-inch display",
+                                                "Heat pump HVAC"
+                                            ]
+                  },
+                  {
+                      "code":  "Plus",
+                      "name":  "VF 8 Plus",
+                      "price":  {
+                                    "currency":  "VND",
+                                    "value":  1469000000,
+                                    "note":  "Premium equipment"
+                                },
+                      "powertrain":  "Dual motor AWD",
+                      "transmission":  "Single-speed",
+                      "rangeWLTPKm":  447,
+                      "zeroTo100":  5.5,
+                      "images":  [
+                                     "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?auto=format\u0026fit=crop\u0026w=1200\u0026q=80",
+                                     "https://images.unsplash.com/photo-1489515217757-5fd1be406fef?auto=format\u0026fit=crop\u0026w=1200\u0026q=80"
+                                 ],
+                      "highlightFeatures":  [
+                                                "Panoramic glass roof",
+                                                "Premium vegan leather interior",
+                                                "9-speaker audio with subwoofer"
+                                            ]
+                  },
+                  {
+                      "code":  "Plus+",
+                      "name":  "VF 8 Plus+",
+                      "price":  {
+                                    "currency":  "VND",
+                                    "value":  1579000000,
+                                    "note":  "Premium equipment"
+                                },
+                      "powertrain":  "Dual motor AWD",
+                      "transmission":  "Single-speed",
+                      "rangeWLTPKm":  447,
+                      "zeroTo100":  5.5,
+                      "images":  [
+                                     "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?auto=format\u0026fit=crop\u0026w=1200\u0026q=80",
+                                     "https://images.unsplash.com/photo-1489515217757-5fd1be406fef?auto=format\u0026fit=crop\u0026w=1200\u0026q=80"
+                                 ],
+                      "highlightFeatures":  [
+                                                "Panoramic glass roof",
+                                                "Premium vegan leather interior",
+                                                "9-speaker audio with subwoofer"
+                                            ]
+                  }
+              ],
+    "colors":  {
+                   "exterior":  [
+                                    {
+                                        "code":  "sunset-orange",
+                                        "name":  "Sunset Orange",
+                                        "hex":  "#E26A2C",
+                                        "image":  "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?auto=format\u0026fit=crop\u0026w=900\u0026q=60",
+                                        "isPremium":  true,
+                                        "price":  {
+                                                      "currency":  "VND",
+                                                      "value":  25000000,
+                                                      "note":  "Premium paint"
+                                                  }
+                                    },
+                                    {
+                                        "code":  "boreal-silver",
+                                        "name":  "Boreal Silver",
+                                        "hex":  "#BCC5CE",
+                                        "image":  "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?auto=format\u0026fit=crop\u0026w=900\u0026q=60",
+                                        "price":  {
+                                                      "currency":  "VND",
+                                                      "value":  10000000,
+                                                      "note":  "Metallic finish"
+                                                  }
+                                    },
+                                    {
+                                        "code":  "midnight-blue",
+                                        "name":  "Midnight Blue",
+                                        "hex":  "#0D1F3C",
+                                        "image":  "https://images.unsplash.com/photo-1517945317862-720226b86482?auto=format\u0026fit=crop\u0026w=900\u0026q=60",
+                                        "price":  {
+                                                      "currency":  "VND",
+                                                      "value":  12000000,
+                                                      "note":  "Metallic finish"
+                                                  }
+                                    },
+                                    {
+                                        "code":  "arctic-white",
+                                        "name":  "Arctic White",
+                                        "hex":  "#F3F3F3",
+                                        "image":  "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?auto=format\u0026fit=crop\u0026w=900\u0026q=60",
+                                        "price":  {
+                                                      "currency":  "VND",
+                                                      "value":  8000000,
+                                                      "note":  "Solid paint"
+                                                  }
+                                    }
+                                ],
+                   "interior":  [
+                                    {
+                                        "code":  "jet-black",
+                                        "name":  "Jet Black",
+                                        "hex":  "#171717",
+                                        "image":  "https://images.unsplash.com/photo-1511396275270-0a3f66f1b4be?auto=format\u0026fit=crop\u0026w=900\u0026q=60",
+                                        "price":  {
+                                                      "currency":  "VND",
+                                                      "value":  5000000,
+                                                      "note":  "Standard upholstery"
+                                                  }
+                                    },
+                                    {
+                                        "code":  "cloud-beige",
+                                        "name":  "Cloud Beige",
+                                        "hex":  "#E7D8C8",
+                                        "image":  "https://images.unsplash.com/photo-1511396275270-0a3f66f1b4be?auto=format\u0026fit=crop\u0026w=900\u0026q=60",
+                                        "isPremium":  true,
+                                        "price":  {
+                                                      "currency":  "VND",
+                                                      "value":  9000000,
+                                                      "note":  "Premium upholstery"
+                                                  }
+                                    }
+                                ]
+               },
+    "media":  [
+                  {
+                      "type":  "image",
+                      "url":  "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?auto=format\u0026fit=crop\u0026w=1400\u0026q=70",
+                      "caption":  "VF 8 profile"
+                  },
+                  {
+                      "type":  "image",
+                      "url":  "https://images.unsplash.com/photo-1489515217757-5fd1be406fef?auto=format\u0026fit=crop\u0026w=1400\u0026q=70",
+                      "caption":  "Premium interior"
+                  },
+                  {
+                      "type":  "image",
+                      "url":  "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format\u0026fit=crop\u0026w=1400\u0026q=70",
+                      "caption":  "Night drive"
+                  },
+                  {
+                      "type":  "video",
+                      "url":  "https://storage.googleapis.com/coverr-main/mp4/Sunrise-Car.mp4",
+                      "caption":  "Design story"
+                  },
+                  {
+                      "type":  "video",
+                      "url":  "https://storage.googleapis.com/coverr-main/mp4/Mt_Baker.mp4",
+                      "caption":  "Road trip"
+                  },
+                  {
+                      "type":  "image",
+                      "url":  "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format\u0026fit=crop\u0026w=1400\u0026q=70",
+                      "caption":  "Detail view"
+                  },
+                  {
+                      "type":  "image",
+                      "url":  "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format\u0026fit=crop\u0026w=1400\u0026q=70",
+                      "caption":  "Cabin"
+                  }
+              ],
+    "specifications":  [
+                           {
+                               "title":  "Dimensions",
+                               "items":  [
+                                             {
+                                                 "label":  "Overall length",
+                                                 "value":  "4,750 mm"
+                                             },
+                                             {
+                                                 "label":  "Overall width",
+                                                 "value":  "1,934 mm"
+                                             },
+                                             {
+                                                 "label":  "Overall height",
+                                                 "value":  "1,667 mm"
+                                             },
+                                             {
+                                                 "label":  "Wheelbase",
+                                                 "value":  "2,950 mm"
+                                             },
+                                             {
+                                                 "label":  "Ground clearance",
+                                                 "value":  "179 mm",
+                                                 "tooltip":  "Unladen"
+                                             },
+                                             {
+                                                 "label":  "Cargo volume",
+                                                 "value":  "688 L rear + 58 L front"
+                                             }
+                                         ]
+                           },
+                           {
+                               "title":  "Performance",
+                               "items":  [
+                                             {
+                                                 "label":  "Max power",
+                                                 "value":  "260 kW / 348 hp"
+                                             },
+                                             {
+                                                 "label":  "Max torque",
+                                                 "value":  "500 Nm"
+                                             },
+                                             {
+                                                 "label":  "0-100 km/h",
+                                                 "value":  "5.5 s"
+                                             },
+                                             {
+                                                 "label":  "Top speed",
+                                                 "value":  "200 km/h"
+                                             },
+                                             {
+                                                 "label":  "Drive modes",
+                                                 "value":  "Eco / Normal / Sport"
+                                             }
+                                         ]
+                           },
+                           {
+                               "title":  "Battery \u0026 Charging",
+                               "items":  [
+                                             {
+                                                 "label":  "Battery capacity",
+                                                 "value":  "87.7 kWh usable"
+                                             },
+                                             {
+                                                 "label":  "Charging AC",
+                                                 "value":  "11 kW Type 2"
+                                             },
+                                             {
+                                                 "label":  "Charging DC",
+                                                 "value":  "160 kW CCS2",
+                                                 "tooltip":  "10-70% in 31 min"
+                                             },
+                                             {
+                                                 "label":  "Thermal management",
+                                                 "value":  "Liquid cooled"
+                                             },
+                                             {
+                                                 "label":  "Warranty",
+                                                 "value":  "10 years or 200,000 km"
+                                             }
+                                         ]
+                           },
+                           {
+                               "title":  "Safety \u0026 ADAS",
+                               "items":  [
+                                             {
+                                                 "label":  "Airbags",
+                                                 "value":  "11 airbags"
+                                             },
+                                             {
+                                                 "label":  "ADAS",
+                                                 "value":  "Highway assist, smart cruise, lane keeping",
+                                                 "tooltip":  "OTA upgradable"
+                                             },
+                                             {
+                                                 "label":  "Parking",
+                                                 "value":  "360 camera + auto park"
+                                             },
+                                             {
+                                                 "label":  "Structure",
+                                                 "value":  "Ultra-high-strength steel"
+                                             },
+                                             {
+                                                 "label":  "Driver monitoring",
+                                                 "value":  "Infrared camera"
+                                             }
+                                         ]
+                           },
+                           {
+                               "title":  "Infotainment \u0026 Comfort",
+                               "items":  [
+                                             {
+                                                 "label":  "Display",
+                                                 "value":  "15.6 in touchscreen + head-up display"
+                                             },
+                                             {
+                                                 "label":  "Voice assistant",
+                                                 "value":  "Vietnamese + English, cloud-based"
+                                             },
+                                             {
+                                                 "label":  "Seats",
+                                                 "value":  "Ventilated front seats"
+                                             },
+                                             {
+                                                 "label":  "Audio",
+                                                 "value":  "9-speaker immersive audio"
+                                             },
+                                             {
+                                                 "label":  "Smart features",
+                                                 "value":  "Remote start, cabin pre-conditioning"
+                                             }
+                                         ]
+                           }
+                       ],
+    "keyFeatures":  [
+                        {
+                            "icon":  "sparkles",
+                            "title":  "Signature Lighting",
+                            "summary":  "Daytime running lights inspired by the VinFast wing.",
+                            "tooltip":  "Connects to DRL animations for greetings",
+                            "mediaUrl":  "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format\u0026fit=crop\u0026w=900\u0026q=60"
+                        },
+                        {
+                            "icon":  "battery",
+                            "title":  "Battery Warranty",
+                            "summary":  "10-year / 200,000 km warranty keeps ownership worry-free.",
+                            "tooltip":  "Valid for both private and fleet customers"
+                        },
+                        {
+                            "icon":  "shield",
+                            "title":  "Level 2+ ADAS",
+                            "summary":  "Highway assist, smart lane change, and auto park.",
+                            "tooltip":  "Software-ready for higher automation"
+                        },
+                        {
+                            "icon":  "gauge",
+                            "title":  "Sport Response",
+                            "summary":  "Dual-motor Plus trim accelerates 0-100 km/h in 5.5 s.",
+                            "mediaUrl":  "https://images.unsplash.com/photo-1489515217757-5fd1be406fef?auto=format\u0026fit=crop\u0026w=900\u0026q=60"
+                        },
+                        {
+                            "icon":  "wind",
+                            "title":  "Panoramic Cabin",
+                            "summary":  "Expansive glass roof with UV and heat rejection.",
+                            "tooltip":  "Available on Plus trim"
+                        },
+                        {
+                            "icon":  "wifi",
+                            "title":  "Always Connected",
+                            "summary":  "4G connectivity with OTA software updates enabled.",
+                            "tooltip":  "5 years of connectivity included"
+                        },
+                        {
+                            "icon":  "plug",
+                            "title":  "Home Charging",
+                            "summary":  "Optional 11 kW wallbox and VinFast Care app for scheduling.",
+                            "tooltip":  "Install support in major cities"
+                        }
+                    ],
+    "promotions":  [
+                       {
+                           "title":  "Battery Subscription Holiday",
+                           "description":  "12-month battery subscription waiver for first 2,000 contracts.",
+                           "validUntil":  "2025-03-31",
+                           "badge":  "Limited"
+                       },
+                       {
+                           "title":  "Loyalty Upgrade",
+                           "description":  "Existing VinFast customers enjoy 60M VND trade-in support.",
+                           "validUntil":  "2025-06-30"
+                       }
+                   ],
+    "accessories":  [
+                        {
+                            "name":  "11 kW Wallbox",
+                            "price":  15000000,
+                            "note":  "Includes basic installation"
+                        },
+                        {
+                            "name":  "All-weather mat set",
+                            "price":  4200000
+                        },
+                        {
+                            "name":  "Premium roof cross bars",
+                            "price":  6900000,
+                            "note":  "Dynamic load 75 kg"
+                        }
+                    ],
+    "onRoadCostSchema":  {
+                             "basePriceSource":  "selectedTrim",
+                             "fees":  [
+                                          {
+                                              "label":  "Registration tax",
+                                              "formula":  "percentOfBase",
+                                              "value":  10,
+                                              "tooltip":  "Ha Noi reference"
+                                          },
+                                          {
+                                              "label":  "License plates",
+                                              "formula":  "fixed",
+                                              "value":  20000000
+                                          },
+                                          {
+                                              "label":  "Civil insurance",
+                                              "formula":  "fixed",
+                                              "value":  12000000
+                                          },
+                                          {
+                                              "label":  "Road maintenance",
+                                              "formula":  "percentOfBase",
+                                              "value":  2
+                                          }
+                                      ]
+                         },
+    "comparisons":  {
+                        "columns":  [
+                                        {
+                                            "trimCode":  "Eco",
+                                            "label":  "VF 8 Eco"
+                                        },
+                                        {
+                                            "trimCode":  "Plus",
+                                            "label":  "VF 8 Plus"
+                                        }
+                                    ],
+                        "rows":  [
+                                     {
+                                         "label":  "Range (WLTP)",
+                                         "values":  {
+                                                        "Eco":  "471 km",
+                                                        "Plus":  "447 km"
+                                                    }
+                                     },
+                                     {
+                                         "label":  "Driven wheels",
+                                         "values":  {
+                                                        "Eco":  "RWD",
+                                                        "Plus":  "AWD"
+                                                    }
+                                     },
+                                     {
+                                         "label":  "Power output",
+                                         "values":  {
+                                                        "Eco":  "260 kW",
+                                                        "Plus":  "300 kW"
+                                                    }
+                                     },
+                                     {
+                                         "label":  "Wheel size",
+                                         "values":  {
+                                                        "Eco":  "20 in",
+                                                        "Plus":  "21 in"
+                                                    }
+                                     },
+                                     {
+                                         "label":  "Seating",
+                                         "values":  {
+                                                        "Eco":  "Vegan leather",
+                                                        "Plus":  "Premium vegan leather"
+                                                    }
+                                     },
+                                     {
+                                         "label":  "Audio",
+                                         "values":  {
+                                                        "Eco":  "8 speakers",
+                                                        "Plus":  "9 speakers + sub"
+                                                    }
+                                     }
+                                 ]
+                    },
+    "brochure":  {
+                     "pdfUrl":  "https://media.vinfastauto.us/brochure/vf8.pdf",
+                     "sizeMB":  18.6,
+                     "label":  "VF 8 Product Brochure"
+                 },
+    "seo":  {
+                "title":  "VinFast VF 8 | Intelligent electric SUV",
+                "description":  "Modern Vietnamese EV with smart safety tech, OTA-ready software, and impressive performance.",
+                "ogImage":  "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format\u0026fit=crop\u0026w=1200\u0026q=80"
+            }
+}
